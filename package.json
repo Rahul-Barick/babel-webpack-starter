@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack && node build/app.bundle.js"
   },
-  "author": "",
+  "author": "Rahul Barick",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.0",
